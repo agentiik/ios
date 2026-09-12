@@ -17,7 +17,7 @@ Nothing is implemented yet. What the application is built against is the specifi
 
 ## Licence
 
-AGPL-3.0-or-later, see [LICENSE](LICENSE). [LICENSING.md](https://github.com/agentiik/.github/blob/main/LICENSING.md) has the
+Copyright 2026 François Rousselet. AGPL-3.0-or-later, see [LICENSE](LICENSE). [LICENSING.md](https://github.com/agentiik/.github/blob/main/LICENSING.md) has the
 reasoning.
 
 ## Contributing
