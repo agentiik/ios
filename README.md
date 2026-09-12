@@ -9,8 +9,8 @@ but not the density. A phone raises every hit target to at least 44 points and d
 table to a card list; it does not shrink the console. Two clients sharing a palette is a
 system; two clients sharing a layout is a compromise that serves neither.
 
-It releases independently of the core; compatibility is expressed by the API version
-alone.
+It carries the same version as the core, as every repository of the project does, and
+compatibility with a server is expressed by the API version rather than by that number.
 
 Nothing is implemented yet. What the application is built against is the specification at
 <https://agentiik.github.io/docs>.
